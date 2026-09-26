@@ -6,9 +6,9 @@ I build Windows utilities and experiment with iOS tooling. My public work covers
 
 | Original tools | iOS forks | Archived projects | Release downloads |
 | ---: | ---: | ---: | ---: |
-| 3 | 2 | 2 | 394 |
+| 3 | 2 | 2 | 91 |
 
-Statistics are a snapshot from September 26, 2026.
+Statistics are a snapshot from September 27, 2026. Download totals count the Windows utility releases, not unrelated files stored in their release pages.
 
 ## Current project
 
@@ -22,7 +22,7 @@ A Windows auto-clicker distributed as a standalone executable. The current relea
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| [RightClickOptions](https://github.com/maxblox2999/rightclickoptions) | Adds file and folder actions to the Windows 10 context menu | Archived · 381 release downloads |
+| [RightClickOptions](https://github.com/maxblox2999/rightclickoptions) | Adds file and folder actions to the Windows 10 context menu | Archived · 78 app downloads |
 | [BringBackChromeExtensions](https://github.com/maxblox2999/BringBackChromeExtensions) | Restores Manifest V2 extension support in older Chrome versions | Archived · PowerShell |
 
 ## iOS experiments
