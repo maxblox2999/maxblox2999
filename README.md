@@ -1,35 +1,34 @@
-# Max
+Max
 
-I build Windows utilities and experiment with iOS tooling. My public work covers auto-clicking, Explorer context menus, Chrome extension compatibility, and iOS tweaks.
+I’m Max. I develop Windows utilities and maintain a few projects here on GitHub.
 
-## At a glance
+<details open>
+<summary><b>Projects</b></summary>
+<br>
 
-| Original tools | iOS forks | Archived projects | Release downloads |
-| ---: | ---: | ---: | ---: |
-| 3 | 2 | 2 | 93 |
+Legacy Clicker
 
-Statistics are a snapshot from September 28, 2026. Download totals count the Windows utility releases, not unrelated files stored in their release pages.
+A lightweight auto-clicker for Windows, available as a standalone executable. Currently in alpha.
 
-## Current project
+RightClickOptions
 
-### [Legacy Clicker](https://github.com/maxblox2999/Legacy-Clicker)
+Adds additional file and folder actions to the Windows 10 context menu.
 
-A Windows auto-clicker distributed as a standalone executable. The current release is v0.1 alpha, with 14 downloads so far. Advanced settings are included but still experimental.
+BringBackChromeExtensions
 
-[Repository](https://github.com/maxblox2999/Legacy-Clicker) · [Download v0.1 alpha](https://github.com/maxblox2999/Legacy-Clicker/releases/tag/alpha_0.1)
+Restores Manifest V2 extension support in older Chrome versions.
 
-## Windows utilities
+Un-JailedSpeedAds
 
-| Project | What it does | Status |
-| --- | --- | --- |
-| [RightClickOptions](https://github.com/maxblox2999/rightclickoptions) | Adds file and folder actions to the Windows 10 context menu | Archived · 79 app downloads |
-| [BringBackChromeExtensions](https://github.com/maxblox2999/BringBackChromeExtensions) | Restores Manifest V2 extension support in older Chrome versions | Archived · PowerShell |
+A fork of an iOS 15+ ad-speed tweak. Development on this fork is handled using Codex.
 
-## iOS experiments
+Status: Work in progress.
 
-| Repository | Focus | Public languages |
-| --- | --- | --- |
-| [lara](https://github.com/maxblox2999/lara) | Fork of an iOS toolbox using the DarkSword exploit | Swift, Objective-C, C, C++, Shell |
-| [Un-JailedSpeedAds](https://github.com/maxblox2999/Un-JailedSpeedAds) | Fork of an iOS 15+ ad-speed tweak | Logos, Objective-C, Makefile |
+</details>
+<details>
+<summary><b>Contact</b></summary>
+<br>
 
-The iOS repositories are forks used for experimentation. The original Windows utilities are my own projects.
+For questions or issues, contact me through GitHub.
+
+</details>
