@@ -8,7 +8,7 @@ I build Windows utilities and experiment with iOS tooling. My public work covers
 | ---: | ---: | ---: | ---: |
 | 3 | 2 | 2 | 93 |
 
-Statistics are a snapshot from September 27, 2026. Download totals count the Windows utility releases, not unrelated files stored in their release pages.
+Statistics are a snapshot from September 28, 2026. Download totals count the Windows utility releases, not unrelated files stored in their release pages.
 
 ## Current project
 
