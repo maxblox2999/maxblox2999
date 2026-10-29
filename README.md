@@ -32,7 +32,7 @@ It's still in beta, so expect some bugs and unfinished features.
 
 An iOS tweak for detecting and speeding up ads.
 
-This originally started as my own fork of Un-JailedSpeedAds, but I've changed so much that it's now a separate project with a mostly different codebase.
+This originally started as my own fork of Un-JailedSpeedAds, but I've changed so much that it's now a separate project with a different codebase.
 
 ![Development](https://img.shields.io/badge/In_Development-purple?style=flat-square)
 ![iOS](https://img.shields.io/badge/iOS-black?style=flat-square)
